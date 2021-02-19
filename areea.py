@@ -1,0 +1,5 @@
+print('A program that calculates Area')
+a=int(input('enter the length'))
+b=int(input('enter the breadth'))
+Area = float(a*b)
+print('the Area is:', Area)
